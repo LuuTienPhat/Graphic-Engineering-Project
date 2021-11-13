@@ -2161,7 +2161,7 @@
                       </Group>
                       <EmptySpace type="unrelated" max="-2" attributes="0"/>
                       <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace pref="15" max="32767" attributes="0"/>
+                      <EmptySpace pref="22" max="32767" attributes="0"/>
                   </Group>
               </Group>
             </DimensionLayout>
@@ -2540,7 +2540,7 @@
                 <Component class="javax.swing.JTextField" name="a_3d">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="12" style="0"/>
+                      <Font name="Tahoma" size="11" style="0"/>
                     </Property>
                   </Properties>
                   <AuxValues>
@@ -2550,7 +2550,7 @@
                 <Component class="javax.swing.JTextField" name="a1_3d">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="12" style="0"/>
+                      <Font name="Tahoma" size="11" style="0"/>
                     </Property>
                   </Properties>
                   <AuxValues>
@@ -2568,7 +2568,7 @@
                 <Component class="javax.swing.JTextField" name="b_3d">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="12" style="0"/>
+                      <Font name="Tahoma" size="11" style="0"/>
                     </Property>
                   </Properties>
                   <AuxValues>
@@ -2594,7 +2594,7 @@
                 <Component class="javax.swing.JTextField" name="b1_3d">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="12" style="0"/>
+                      <Font name="Tahoma" size="11" style="0"/>
                     </Property>
                   </Properties>
                   <AuxValues>
@@ -2604,7 +2604,7 @@
                 <Component class="javax.swing.JTextField" name="c_3d">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="12" style="0"/>
+                      <Font name="Tahoma" size="11" style="0"/>
                     </Property>
                   </Properties>
                   <AuxValues>
@@ -2622,7 +2622,7 @@
                 <Component class="javax.swing.JTextField" name="c1_3d">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="12" style="0"/>
+                      <Font name="Tahoma" size="11" style="0"/>
                     </Property>
                   </Properties>
                   <AuxValues>
@@ -2640,7 +2640,7 @@
                 <Component class="javax.swing.JTextField" name="d_3d">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="12" style="0"/>
+                      <Font name="Tahoma" size="11" style="0"/>
                     </Property>
                   </Properties>
                   <AuxValues>
@@ -2658,7 +2658,7 @@
                 <Component class="javax.swing.JTextField" name="l_3d">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="12" style="0"/>
+                      <Font name="Tahoma" size="11" style="0"/>
                     </Property>
                   </Properties>
                   <AuxValues>
@@ -2676,7 +2676,7 @@
                 <Component class="javax.swing.JTextField" name="w_3d">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="12" style="0"/>
+                      <Font name="Tahoma" size="11" style="0"/>
                     </Property>
                   </Properties>
                   <AuxValues>
@@ -2694,7 +2694,7 @@
                 <Component class="javax.swing.JTextField" name="d1_3d">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="12" style="0"/>
+                      <Font name="Tahoma" size="11" style="0"/>
                     </Property>
                   </Properties>
                   <AuxValues>
@@ -2712,7 +2712,7 @@
                 <Component class="javax.swing.JTextField" name="h_3d">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="12" style="0"/>
+                      <Font name="Tahoma" size="11" style="0"/>
                     </Property>
                   </Properties>
                   <AuxValues>
@@ -2730,7 +2730,7 @@
                 <Component class="javax.swing.JTextField" name="r_3d">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="12" style="0"/>
+                      <Font name="Tahoma" size="11" style="0"/>
                     </Property>
                   </Properties>
                   <AuxValues>
@@ -2748,7 +2748,7 @@
                 <Component class="javax.swing.JTextField" name="o_3d">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="12" style="0"/>
+                      <Font name="Tahoma" size="11" style="0"/>
                     </Property>
                   </Properties>
                   <AuxValues>
@@ -2766,7 +2766,7 @@
                 <Component class="javax.swing.JTextField" name="o1_3d">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="12" style="0"/>
+                      <Font name="Tahoma" size="11" style="0"/>
                     </Property>
                   </Properties>
                   <AuxValues>
@@ -2784,7 +2784,7 @@
                 <Component class="javax.swing.JTextField" name="title_3D">
                   <Properties>
                     <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                      <Font name="Tahoma" size="12" style="0"/>
+                      <Font name="Tahoma" size="11" style="0"/>
                     </Property>
                   </Properties>
                   <AuxValues>
