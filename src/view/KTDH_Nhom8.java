@@ -1577,14 +1577,14 @@ public class KTDH_Nhom8 extends javax.swing.JFrame {
         jLabel29.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel29.setText("A");
 
-        a_3d.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        a_3d.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
 
-        a1_3d.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        a1_3d.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
 
         jLabel30.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel30.setText("A'");
 
-        b_3d.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        b_3d.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
 
         jLabel31.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel31.setText("B");
@@ -1592,59 +1592,59 @@ public class KTDH_Nhom8 extends javax.swing.JFrame {
         jLabel32.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel32.setText("B'");
 
-        b1_3d.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        b1_3d.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
 
-        c_3d.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        c_3d.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
 
         jLabel33.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel33.setText("C");
 
-        c1_3d.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        c1_3d.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
 
         jLabel34.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel34.setText("C'");
 
-        d_3d.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        d_3d.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
 
         jLabel35.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel35.setText("D");
 
-        l_3d.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        l_3d.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
 
         jLabel36.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel36.setText("Chiều dài");
 
-        w_3d.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        w_3d.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
 
         jLabel37.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel37.setText("Chiều rộng");
 
-        d1_3d.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        d1_3d.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
 
         jLabel38.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel38.setText("D'");
 
-        h_3d.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        h_3d.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
 
         jLabel39.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel39.setText("Chiều cao");
 
-        r_3d.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        r_3d.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
 
         jLabel40.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel40.setText("Bán kính");
 
-        o_3d.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        o_3d.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
 
         jLabel41.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel41.setText("O");
 
-        o1_3d.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        o1_3d.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
 
         jLabel42.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel42.setText("O'");
 
-        title_3D.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
+        title_3D.setFont(new java.awt.Font("Tahoma", 0, 11)); // NOI18N
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -1846,7 +1846,7 @@ public class KTDH_Nhom8 extends javax.swing.JFrame {
                         .addComponent(openCylinderDialog, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(15, Short.MAX_VALUE))
+                .addContainerGap(22, Short.MAX_VALUE))
         );
 
         jTabbedPane1.addTab("3D", jPanel_3D);
